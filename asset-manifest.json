@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/students-list-with-router/static/css/main.7fd6bbf0.css",
+    "main.js": "/students-list-with-router/static/js/main.65fd63dc.js",
+    "index.html": "/students-list-with-router/index.html",
+    "main.7fd6bbf0.css.map": "/students-list-with-router/static/css/main.7fd6bbf0.css.map",
+    "main.65fd63dc.js.map": "/students-list-with-router/static/js/main.65fd63dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd6bbf0.css",
+    "static/js/main.65fd63dc.js"
+  ]
+}
